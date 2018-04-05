@@ -1,0 +1,14 @@
+requires:
+{
+    api:
+    {
+        $LEGATO_ROOT/interfaces/airVantage/le_avdata.api
+        $LEGATO_ROOT/interfaces/positioning/le_posCtrl.api
+        $LEGATO_ROOT/interfaces/positioning/le_pos.api
+    }
+}
+sources:
+{
+    positionSample.c
+    position.c
+}
