@@ -13,6 +13,7 @@ positionSample, is a simple Legato app making using of this helper to:
 
 Push the current location to AirVantage. The publishing interval varies depending on the gnss fix state
 
-
+Position as updated in AirVantage:
+![](location.jpg "Location updated in AirVantage widget")
 
 
